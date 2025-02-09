@@ -1,0 +1,22 @@
+h1, h2, h3, .cap {
+  text-align: center;
+}
+.foto {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+.beton {
+  display: block;
+  width: 100px;
+  padding: 10px auto;
+  margin: 10px auto;
+  text-align: center;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
+.beton:hover {
+  margin: 10px auto;
+  transform-style: 1s;
+}
